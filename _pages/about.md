@@ -9,13 +9,11 @@ redirect_from:
 
 Hello there. I am currently a Post Grad student at the University of the West of England (UWE), Studying DATA SCIENCE. 
 
-I have a background in Mechannical Engineering 
+======
 
-Driven by my passion for blending engineering expertise with data science, I am a mechanical engineering graduate currently pursuing a master’s degree in data science. With over two years of experience in cross-border roles, including positions as an account manager and customer success analyst, I have developed strong skills in customer relationship management, strategic problem-solving, and cross-functional collaboration. These roles honed my ability to understand and address complex client needs across diverse cultures and markets.
+Driven by a passion for blending engineering expertise with data science, I am a mechanical engineering graduate currently pursuing a master’s degree in data science. With over two years of experience in cross-border roles, including positions as an account manager and customer success analyst, I have developed strong skills in customer relationship management, strategic problem-solving, and cross-functional collaboration. These roles honed my ability to understand and address complex client needs across diverse cultures and markets.
 
-In addition to my professional experience, I have a track record of commitment to social impact through my volunteer work with Book Bank Africa, where I’ve contributed to initiatives focused on supporting underprivileged children. My exposure to the fintech industry, where I’m currently working on a marketing strategy for a cross-border payment app, has fueled my interest in private equity and financial technologies, as I see these as powerful vehicles for growth and wealth creation across emerging markets. 
-
-With a unique blend of technical knowledge, data analytics expertise, and a strong orientation toward client success, I am eager to bring value to roles that require bridging technology with business strategy to drive meaningful impact and innovation."
+In addition to my professional experience,my exposure to the fintech industry, where I’m currently working on a marketing strategy for a cross-border payment app, has fueled my interest in private equity and financial technologies, as I see these as powerful vehicles for growth and wealth creation across emerging markets. With a unique blend of technical knowledge, data analytics expertise, and a strong orientation toward client success, I am eager to bring value to roles that require bridging technology with business strategy to drive meaningful impact and innovation.
 
 <!-- Getting started
 ======
